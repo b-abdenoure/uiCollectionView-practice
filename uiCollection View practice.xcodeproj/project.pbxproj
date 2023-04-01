@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0789DBD029D857A4004E306E /* Products.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789DBCF29D857A3004E306E /* Products.swift */; };
+		0789DBD829D86F72004E306E /* MyCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789DBD729D86F72004E306E /* MyCollectionView.swift */; };
 		07FC6E1F29D758410091E987 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FC6E1E29D758410091E987 /* AppDelegate.swift */; };
 		07FC6E2129D758410091E987 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FC6E2029D758410091E987 /* SceneDelegate.swift */; };
 		07FC6E2329D758410091E987 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FC6E2229D758410091E987 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0789DBCF29D857A3004E306E /* Products.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Products.swift; sourceTree = "<group>"; };
+		0789DBD729D86F72004E306E /* MyCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionView.swift; sourceTree = "<group>"; };
 		07FC6E1B29D758410091E987 /* uiCollection View practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "uiCollection View practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07FC6E1E29D758410091E987 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		07FC6E2029D758410091E987 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +62,8 @@
 			children = (
 				07FC6E1E29D758410091E987 /* AppDelegate.swift */,
 				07FC6E2029D758410091E987 /* SceneDelegate.swift */,
+				0789DBCF29D857A3004E306E /* Products.swift */,
+				0789DBD729D86F72004E306E /* MyCollectionView.swift */,
 				07FC6E2229D758410091E987 /* ViewController.swift */,
 				07FC6E2429D758410091E987 /* Main.storyboard */,
 				07FC6E2729D758440091E987 /* Assets.xcassets */,
@@ -138,8 +144,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				07FC6E2329D758410091E987 /* ViewController.swift in Sources */,
+				0789DBD029D857A4004E306E /* Products.swift in Sources */,
 				07FC6E1F29D758410091E987 /* AppDelegate.swift in Sources */,
 				07FC6E2129D758410091E987 /* SceneDelegate.swift in Sources */,
+				0789DBD829D86F72004E306E /* MyCollectionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
